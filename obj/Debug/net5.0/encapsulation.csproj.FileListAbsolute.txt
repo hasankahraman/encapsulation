@@ -1,0 +1,16 @@
+E:\patika\practises\encapsulation\bin\Debug\net5.0\encapsulation.exe
+E:\patika\practises\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+E:\patika\practises\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+E:\patika\practises\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+E:\patika\practises\encapsulation\bin\Debug\net5.0\encapsulation.dll
+E:\patika\practises\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.dll
+E:\patika\practises\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+E:\patika\practises\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+E:\patika\practises\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
